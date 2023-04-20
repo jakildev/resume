@@ -6,12 +6,17 @@ jakildev@gmail.com | (619) 368-3722 | www.mywebsite.com
 **Riverbed Technology** *Member of Technical Staff*
 Sunnyvale CA
 August 2019 - Present
-* Fast paced agile developement environment, to deliver bugs and features for both our cloud acceleration and network optimization products.
+* Worked in an agile team environment to investigate, implement, test, and deploy new features and implovements for our network acceleration and visibility products.
+* Implemented TLS 1.3 supported signing and encyrpting algorithms using low-level cryptographic APIs 
+    * including OpenSSL, Apple CryptoKit, and Microsoft Cryptography API: Next Generation (CNG).
+* Automated deployment of cloud resorces in Microsoft Azure for on-demand scaling of or product's infrastructure.
+* Colaborated with coworkers on design and implementation details, and
+* Documented build procedures, findings, and ... to grow internal knowledge base
 * Worked with build systems with lots of dependencies
 * Unix based productions and developement environments.
 * Worked with a variety of programming languages including python, perl, c++ and ruby
 * Headed many investigations and prototypes for potential new features, including a centralized logging system, MQTT broker, ...
-* Implemented many asymetrical crytographic algorithms using both Microsoft's and Apple's native OS APIs, and overhauled our codebase's use of OpenSSL 1.1.1 APIs to OpenSSL 3.x.
+* MQTT message broker for interprocess communication via a publish and subscribe model
 
 ## Education
 **California Polytechnic State University**
