@@ -3,11 +3,10 @@ jakildev@gmail.com | (619) 368-3722 | www.mywebsite.com
 
 ## Profesional Experience
 
-**Riverbed Technology** *Member of Technical Staff*
+**Riverbed Technology** *Software Engineer / Member of Technical Staff*
 Sunnyvale CA
 August 2019 - Present
-* Fast paced agile developement environment, to deliver bugs and features for both our cloud acceleration and network optimization products.
-* Worked with build systems with lots of dependencies
+* Worked in a fast paced agile developement environment, to fix bugs and deliver features for both our cloud acceleration and network optimization products.
 * Unix based productions and developement environments.
 * Worked with a variety of programming languages including python, perl, c++ and ruby
 * Headed many investigations and prototypes for potential new features, including a centralized logging system, MQTT broker, ...
@@ -25,4 +24,3 @@ September 2015 - June 2019
 * Custom archetype based entity-component-system (ECS) that stores components across entities together in memory, allowing systems to operate on large groups of entities in a CPU-cache efficient way.
 
 ## Skills
-Functional Programming, Object-Oriented Programming, and Data Oriented Design
