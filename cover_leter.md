@@ -1,0 +1,9 @@
+I am writing to express my strong interest in the "position" position at [Company]. With a passion for software development and four years of industry experience complementing my formal education, I am confident that I can contribute significantly to the growth and success of your organization.
+
+During my time as an undergraduate at California Polytechnic University, San Luis Obispo, I gained extensive knowledge of programming language paradigms, computer architecture, networks, and design patterns. From writing my own version of malloc to creating network routing rules, I was able to develop both my technical knowledge and problem solving skills.
+
+At Riverbed Technology, I was able to make meaningful contributions to their cloud acceleration and network optimization products. I also got the opportunity to head several investigations into potential new features. One of these investigations was for a centralized logging structure. As a part of this, I was able to implement both an Elasticsearch and Graylog stack using Kubernetes that could scale on demand based on CPU utilization. I created a local deployment, as well as spinning up a Kubernetes cluster in Azure cloud.
+
+In my free time, I like to work on my own personal coding projects. In addition to the C++ game engine that I have been developing as mentioned on my resume, recently I have been working on a web scraper/crawler with a partner using JavaScript and Puppeteer. We also automate fetching and writing transactions to a google sheet using Google's API, and we use a SQL database to aggregate our data.
+
+I am a highly motivated software developer, and when I am excited on a project, I am very happy to put my time and effort into it to see meaningful outcomes. I believe that my ability to learn new technologies quickly and my diverse experience makes me a great candidate for this role.

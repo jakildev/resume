@@ -1,18 +1,18 @@
 # Evin Killian
-**Email:** jakildev@gmail.com  
+**Email:** jakildev@gmail.com
 **Phone:** (619) 368-3722
 
 ## Summary
 Motivated software engineer with experience in agile development, cryptography, cloud computing, and interprocess communication. Seeking a challenging position to utilize my skills and contribute to innovative projects.
 
 ## Education
-**California Polytechnic State University** | San Luis Obispo, CA  
-Bachelor of Science, Computer Engineering  
+**California Polytechnic State University** | San Luis Obispo, CA
+Bachelor of Science, Computer Engineering
 September 2015 - June 2019
 
 ## Professional Experience
-**Riverbed Technology** | Sunnyvale, CA  
-Member of Technical Staff  
+**Riverbed Technology** | Sunnyvale, CA |
+Member of Technical Staff |
 August 2019 - Present
 
 - Worked in an agile team environment to investigate, implement, test, and deploy new features and improvements for our network acceleration and visibility products.
@@ -24,6 +24,7 @@ August 2019 - Present
 
 ## Personal Projects
 ### Game Engine: (C++, CMake, Lua, OpenGL, GLSL)
+Solo Project   |   January 2022 - Present
 - Led the development of a game engine as the sole software engineer, responsible for all aspects of design, architecture, and implementation.
 - Created a unique rendering solution for 2D isometric games by implementing OpenGL 4.6 in C++ and developing custom GLSL vertex, fragment, and compute shaders.
 - Developed a custom archetype-based entity-component-system (ECS) that efficiently stores components across entities in memory.
@@ -33,9 +34,9 @@ August 2019 - Present
 
 ## Skills
 - C, C++, Python, JavaScript, Lua, Bash, GLSL
-- Windows, macOS, Linux (CentOS, Debian, Arch)
+- Windows, macOS, Linux (CentOS, Debian, Arch), Docker, Kubernetes
 - Jira (DevOps), Azure, Git, SSH, OpenSSL, Microsoft CNG, Apple Cryptokit, OpenGL, Puppeteer, RESTful APIs
 
 ## Achievements
-**Eagle Scout** | Boy Scout Troop 45  
+**Eagle Scout** | Boy Scout Troop 45
 Achieved the rank of Eagle Scout, demonstrating leadership, perseverance, and commitment to community service.
