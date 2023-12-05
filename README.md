@@ -1,5 +1,5 @@
 # Evin Killian
-**Email:** jakildev@gmail.com
+**Email:** jakildev@gmail.com\
 **GitHub:** https://github.com/jakildev
 
 ## Summary
