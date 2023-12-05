@@ -3,7 +3,7 @@
 **GitHub:** https://github.com/jakildev
 
 ## Summary
-Motivated software engineer with experience in agile development, cryptography, cloud computing, and interprocess communication. Seeking a challenging position to utilize my skills and contribute to innovative projects.
+Motivated software engineer with experience in high-performance complex systems, cryptography, cloud computing, and interprocess communication. Seeking a challenging position to utilize my skills and contribute to innovative projects.
 
 ## Education
 **California Polytechnic State University** | San Luis Obispo, CA
@@ -27,7 +27,7 @@ August 2019 - Present
 Solo Project   |   January 2022 - Present
 - Led the development of a game engine as the sole software engineer, responsible for all aspects of design, architecture, and implementation.
 - Created a unique rendering solution for 2D isometric games by implementing OpenGL 4.6 in C++ and developing custom GLSL vertex, fragment, and compute shaders.
-- Developed a custom archetype-based entity-component-system (ECS) that efficiently stores components across entities in memory.
+- Developed a cache-efficient relational archetype-based entity-component-system (ECS) that stores components across entities in memory.
 - Implemented synchronous and asynchronous event handling for mouse, keyboard, and MIDI messages.
 - Integrated scripting language support using Lua's C++ API, enabling flexible and powerful customization of game behavior.
 - Prioritized code maintainability and scalability to ensure the engine's long-term viability and support for future development.
