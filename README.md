@@ -1,6 +1,6 @@
 # Evin Killian
 **Email:** jakildev@gmail.com
-**Phone:** (619) 368-3722
+**GitHub:** https://github.com/jakildev
 
 ## Summary
 Motivated software engineer with experience in agile development, cryptography, cloud computing, and interprocess communication. Seeking a challenging position to utilize my skills and contribute to innovative projects.
