@@ -15,7 +15,7 @@ Motivated software engineer with experience in high-performance complex systems,
 - Automated deployment of cloud resources in Microsoft Azure for on-demand scaling of our product's infrastructure.
 - Documented build procedures, findings, and knowledge transfers to facilitate the growth of the internal knowledge base.
 - Contributed to build systems with many dependencies in Linux-based production and development environments.
-- Led investigations and POCs for potential new features, including a centralized logging analytics solution with Elastic and Graylog, an MQTT broker for interprocess and network communication, and GPU-accelerated encoding using CUDA.
+- Led investigations and POCs for potential new features, including centralized logging analytics solutions with Elastic and Graylog, an MQTT message broker for interprocess and network communication, and GPU-accelerated encoding using CUDA.
 
 ## Personal Projects
 **Open Source Game Engine**  |  Creator and Project Lead  | January 2022 - Present
