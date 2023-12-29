@@ -15,7 +15,7 @@ Motivated software engineer with experience in high-performance complex systems,
 - Automated deployment of cloud resources in Microsoft Azure for on-demand scaling of our product's infrastructure.
 - Documented build procedures, findings, and knowledge transfers to facilitate the growth of the internal knowledge base.
 - Contributed to build systems with many dependencies in Linux-based production and development environments.
-- Led investigations and POCs for potential new features, such as a centralized logging analytics solution, an MQTT broker for interprocess and network communication, and GPU-accelerated encoding using CUDA.
+- Led investigations and POCs for potential new features, including a centralized logging analytics solution with Elastic and Graylog, an MQTT broker for interprocess and network communication, and GPU-accelerated encoding using CUDA.
 
 ## Personal Projects
 **Open Source Game Engine**  |  Creator and Project Lead  | January 2022 - Present
@@ -24,7 +24,10 @@ Motivated software engineer with experience in high-performance complex systems,
 - Developed a cache-efficient relational archetype-based entity-component-system (ECS) that stores components across entities in memory.
 - Implemented synchronous and asynchronous event handling for mouse, keyboard, and MIDI messages.
 - Prioritized code maintainability and scalability to ensure the engine's long-term viability and support for future development.
-- Published the engine as an Open Source MIT project to add to the growing game developement knowledge base.
+
+**Digital Market Web Crawler** | Skin Grabbers LLC | CTO | April 2023 - Present
+- Developed and deployed a variaty of automation scripts for buying and selling Counter Strike 2 skins across several 3rd party websites.
+- Fostered an environment of colaboration and learning with a partner new to software development.
 
 ## Skills
 - C, C++, Python, JavaScript, Lua, Bash, GLSL
