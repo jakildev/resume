@@ -19,15 +19,15 @@ Motivated software engineer with experience in high-performance complex systems,
 
 ## Personal Projects
 **Open Source Game Engine**  |  Creator and Project Lead  | January 2022 - Present
-- Designed, archetected, and implemented a C++ conent and game engine capable of simulating millions of entities at hundreds of frames per second.
+- Designed, architected, and implemented a C++ content and game engine capable of simulating millions of entities at hundreds of frames per second.
 - Created a unique rendering solution for 2D isometric games by implementing OpenGL 4.6 with custom GLSL vertex, fragment, and compute shaders.
 - Developed a cache-efficient relational archetype-based entity-component-system (ECS) that stores components across entities in memory.
 - Implemented synchronous and asynchronous event handling for mouse, keyboard, and MIDI messages.
 - Prioritized code maintainability and scalability to ensure the engine's long-term viability and support for future development.
 
 **Digital Market Web Crawler** | Skin Grabbers LLC | CTO | April 2023 - Present
-- Developed and deployed a variaty of automation scripts for buying and selling Counter Strike 2 skins across several 3rd party websites.
-- Fostered an environment of colaboration and learning with a partner new to software development.
+- Developed and deployed a variety of automation scripts for buying and selling Counter Strike 2 skins across several 3rd party websites.
+- Fostered an environment of collaboration and learning with a partner new to software development.
 
 ## Skills
 - C, C++, Python, JavaScript, Lua, Bash, GLSL
