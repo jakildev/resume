@@ -27,10 +27,11 @@ Motivated software engineer with experience in high-performance complex systems,
 
 **Digital Market Web Crawler** | Skin Grabbers LLC | CTO | April 2023 - Present
 - Developed and deployed a variety of automation scripts for buying and selling Counter Strike 2 skins across several 3rd party websites.
+- Aggregated and stored relevant data in a persistent SQL database.
 - Fostered an environment of collaboration and learning with a partner new to software development.
 
 ## Skills
-- C, C++, Python, JavaScript, Lua, Bash, GLSL
+- C, C++, Python, JavaScript, Lua, Bash, GLSL, SQL
 - Windows, macOS, Linux (CentOS, Debian, Arch), Docker, Kubernetes
 - Jira (DevOps), Azure, Git, SSH, OpenSSL, Microsoft CNG, Apple Cryptokit, OpenGL, Puppeteer, RESTful APIs
 
