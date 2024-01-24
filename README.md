@@ -25,16 +25,12 @@ Motivated software engineer with experience in high-performance complex systems,
 - Implemented synchronous and asynchronous event handling for mouse, keyboard, and MIDI messages.
 - Prioritized code maintainability and scalability to ensure the engine's long-term viability and support for future development.
 
-**Digital Market Web Crawler** | Skin Grabbers LLC | CTO | April 2023 - Present
-- Developed and deployed a variety of automation scripts for buying and selling Counter Strike 2 skins across several 3rd party websites.
-- Aggregated and stored relevant data in a persistent SQL database.
-- Fostered an environment of collaboration and learning with a partner new to software development.
+**Digital Market Monitoring Service** | Skin Grabbers LLC | CTO | April 2023 - Present
+- Developed and deployed a variety of automation scripts for monitoring, pricing, and alerting Counter Strike 2 skins across many 3rd party marketplaces.
+- Refactored JavaScript project into multiple services with end-to-end type safety and compiler enforcement using TypeScript and generics.
+- Created an environment of learning and growth as programmers with a partner brand-new to software development.
 
 ## Skills
-- C, C++, Python, JavaScript, Lua, Bash, GLSL, SQL
-- Windows, macOS, Linux (CentOS, Debian, Arch), Docker, Kubernetes
-- Jira (DevOps), Azure, Git, SSH, OpenSSL, Microsoft CNG, Apple Cryptokit, OpenGL, Puppeteer, RESTful APIs
-
-## Achievements
-**Eagle Scout** | Boy Scout Troop 45
-Achieved the rank of Eagle Scout, demonstrating leadership, perseverance, and commitment to community service.
+- C++, TypeScript, C, Python, JavaScript, Bash, GLSL, SQL, Lua
+- Windows, Linux (CentOS, Debian, Arch), macOS, Docker, Kubernetes
+- Azure, Git, SSH, OpenSSL, Microsoft CNG, Apple Cryptokit, OpenGL, Puppeteer, APIs
