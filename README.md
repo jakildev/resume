@@ -28,9 +28,10 @@ Motivated software engineer with experience in high-performance complex systems,
 **Digital Market Monitoring Service** | Skin Grabbers LLC | CTO | April 2023 - Present
 - Developed and deployed a variety of automation scripts for monitoring, pricing, and alerting Counter Strike 2 skins across many 3rd party marketplaces.
 - Refactored JavaScript project into multiple services with end-to-end type safety and compiler enforcement using TypeScript and generics.
+- Implemented a MongoDB backend for both short-term and long-term data storage and user state.
 - Created an environment of learning and growth as programmers with a partner brand-new to software development.
 
 ## Skills
 - C++, TypeScript, C, Python, JavaScript, Bash, GLSL, SQL, Lua
 - Windows, Linux (CentOS, Debian, Arch), macOS, Docker, Kubernetes
-- Azure, Git, SSH, OpenSSL, Microsoft CNG, Apple Cryptokit, OpenGL, Puppeteer, APIs
+- Azure, Git, SSH, OpenSSL, Microsoft CNG, Apple Cryptokit, OpenGL, Puppeteer, APIs, MongoDB
