@@ -15,7 +15,6 @@ Motivated software engineer with experience in high-performance complex systems,
 - Automated deployment of cloud resources in Microsoft Azure for on-demand scaling of our product's infrastructure.
 - Documented build procedures, findings, and knowledge transfers to facilitate the growth of the internal knowledge base.
 - Contributed to build systems with many dependencies in Linux-based production and development environments.
-- Led investigations and POCs for potential new features, including centralized logging analytics solutions with Elastic and Graylog, an MQTT message broker for interprocess and network communication, and GPU-accelerated encoding using CUDA.
 
 ## Personal Projects
 **Open Source Game Engine**  |  Creator and Project Lead  | January 2022 - Present
@@ -25,14 +24,13 @@ Motivated software engineer with experience in high-performance complex systems,
 - Implemented synchronous and asynchronous event handling for mouse, keyboard, and MIDI messages.
 - Prioritized code maintainability and scalability to ensure the engine's long-term viability and support for future development.
 
-**Digital Market Monitoring Service** | Skin Grabbers LLC | CTO | April 2023 - Present
+**Digital Market Monitoring Service** | Skin Grabbers LLC | Co-Founder | April 2023 - Present
 - Developed and deployed a variety of automation scripts for monitoring, pricing, and alerting Counter Strike 2 skins across many 3rd party marketplaces.
-- Established a community of members through an integrated front-end utilizing Discord and powered by discord.js.
+- Established a community of members through an integrated front-end with Discord using discord.js and webhooks.
 - Refactored JavaScript project into multiple services with end-to-end type safety and compiler enforcement using TypeScript and generics.
 - Implemented a MongoDB backend for both short-term and long-term data storage and user state.
-- Created an environment of learning and growth as programmers with a partner brand-new to software development.
 
 ## Skills
 - C++, TypeScript, C, Python, JavaScript, Bash, GLSL, SQL, Lua
-- Windows, Linux (CentOS, Debian, Arch), macOS, Docker, Kubernetes
-- Azure, Git, SSH, OpenSSL, Microsoft CNG, Apple Cryptokit, OpenGL, Puppeteer, APIs, MongoDB, discord.js
+- Linux (CentOS, Debian, Arch), Windows, macOS, Docker, Kubernetes
+- OpenSSL, Microsoft CNG, Apple Cryptokit, Git, SSH, OpenGL, Azure, Puppeteer, APIs, MongoDB, discord.js
