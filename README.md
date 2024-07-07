@@ -13,7 +13,6 @@ Motivated software engineer with experience in high-performance complex systems,
 - Worked in an agile team environment to investigate, implement, test, and deploy new features and improvements for our network acceleration and visibility products.
 - Implemented TLS 1.3 supported signing and encryption algorithms using low-level cryptographic APIs including OpenSSL, Apple CryptoKit, and Microsoft Cryptography API: Next Generation (CNG).
 - Automated deployment of cloud resources in Microsoft Azure for on-demand scaling of our product's infrastructure.
-- Documented build procedures, findings, and knowledge transfers to facilitate the growth of the internal knowledge base.
 - Contributed to build systems with many dependencies in Linux-based production and development environments.
 
 ## Personal Projects
