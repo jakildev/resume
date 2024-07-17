@@ -22,7 +22,7 @@ Motivated software engineer with experience in high-performance complex systems,
 - Developed a cache-efficient relational archetype-based entity-component-system (ECS) that stores components across entities in memory.
 - Implemented synchronous and asynchronous event handling for mouse, keyboard, and MIDI messages.
 
-**Digital Market Monitoring Service** | Skin Grabbers LLC | Co-Founder | April 2023 - Present
+**Digital Market Monitoring Service** | Skin Grabbers LLC | Co-Founder | April 2023 - Present | https://skingrabbers.com/
 - Developed and deployed a variety of automation scripts for monitoring, pricing, and alerting Counter Strike 2 skins across many 3rd party marketplaces.
 - Established a community of members through an integrated front-end with Discord using discord.js and webhooks.
 - Refactored JavaScript project into multiple services with end-to-end type safety and compiler enforcement using TypeScript and generics.
